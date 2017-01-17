@@ -17,7 +17,7 @@ int main()
 	const unsigned int inches_per_foot(12U);
 	unsigned int total_inches{};
 
-	total_inches = (inches + (inches_per_foot * (yards * (feet_per_yard + feet))));
+	total_inches = (inches + (inches_per_foot * (yards * feet_per_yard + feet)));
 	cout << "The distances corresponds to " << total_inches << " inches." << endl;
 
 	cout << "Enter a distance in inches: ";
