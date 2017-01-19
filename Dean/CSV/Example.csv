@@ -1,0 +1,20 @@
+#,Priority,Subject,Priority Defect,Updated,To be fixed on'
+131941,High,CR908 - Claim Involved Party & Complaint Involved Party Reporting Fields - Updates to allow WS Add/Set calls to use reporting fields,Yes,17 Feb 2014 13:33,Trunk
+132030,Medium,REG - Task Management - Duplicate Workflow for assesing parameters,No,18 Feb 2014 10:06,Trunk
+131959,High,REG - Task Management - Incorrect User Assignment for Following steps,No,18 Feb 2014 08:10,Trunk
+131890,Medium,REG - Can not update tasks on a contact,No,17 Feb 2014 10:55,Pre-Production
+127229,Not-set,CR890 - COPP added/updated/removed triggers firing multiple times,No,13 Feb 2014 15:03,Trunk
+131989,Medium,REG - Renewals still submitted Automatically with ST if Add Ons do not have all Mandatory Questions answered,No,18 Feb 2014 10:03,Trunk
+127258,Low,CR616 - Updatepartrisk response does not show the address question properties' answer source is updated if not included in request,No,17 Jan 2014 08:01,Trunk
+126905,Medium,CR616 - Update GetPolicyParts query so if there are multiple active treedisplayname questions on a part onll answered ones will be taken,No,09 Jan 2014 15:51,Trunk
+78311,Low,REG - UpdatePartPremiumOverride fails with error when can do same action in the AP,No,06 Sep 2013 19:44,Trunk
+122017,Normal,REG - Acturis Assistant - Compatible to Visual Studio 2010,No,15 Nov 2013 11:27,Trunk
+104981,Low,"test defect please ignore",No,04 Oct 2013 09:56,Trunk
+132032,Medium,REG - RetrieveActLog not filtering results based on # ActivitySeqNos,No,18 Feb 2014 09:37,Trunk
+131621,Low,REG - Agent Commission Rate being set to NULL incorrectly when the default is NULL,No,14 Feb 2014 12:41,Trunk
+68666,Low,REG - fix for Policy component crashes sorted by adding logging in 66002,No,07 Feb 2014 09:46,Trunk
+86073,Low,REG - TE messages staying on the message queue for a long time before being processed,No,27 Aug 2013 18:32,Trunk
+56993,Low,REG - TE components DB connection pooling,No,03 Aug 2012 11:50,Trunk
+113371,Normal,REG - DSE/XMLApi Memory Leak,No,07 Feb 2014 15:25,Trunk
+124153,Normal,CR919 - Updates to structures,No,11 Feb 2014 10:55,Pre-Production & Trunk
+127534,Medium,REG - Security Admin tool crashes randomly,No,18 Feb 2014 14:09,Trunk
